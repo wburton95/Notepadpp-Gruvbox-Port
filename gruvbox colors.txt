@@ -1,0 +1,70 @@
+"Gruvbox themes for notepad++. Sorted color pallet list."
+"file name: gruvbox colors.txt"
+
+Dark mode:		D			L
+
+"syntax colors"
+.color red		#cc241d		#fb4934
+.color green	#98971a		#b8bb26
+.color yellow	#d79921		#fabd2f
+.color blue		#458588		#83a598
+.color purple 	#b16286		#d3869b
+.color aqua 	#689d6a		#8ec07c
+.color gray 	#a89984		#928374
+.color orange 	#d65d0e		#fe8019
+
+"default background colors"
+.color bg		#282828	
+.color fg		#ebdbb2
+
+"background shade colors"
+.color bg0_h 	#1d2021
+.color bg0	 	#282828
+.color bg1	 	#3c3836
+.color bg2 		#504945
+.color bg3 		#665c54
+.color bg4	 	#7c6f64
+
+"foreground shade colors"
+.color bg0_s 	#32302d
+.color fg0	 	#a89984
+.color fg1	 	#bdae94
+.color fg2 		#d5c4a1
+.color fg3 		#ebdbb2
+.color fg4	 	#fbf1c7
+
+
+
+Light mode:		L			D
+
+"syntax colors"
+.color red		#cc241d		#9d0006
+.color green	#98971a		#79740e
+.color yellow	#d79921		#b57614
+.color blue		#458588		#076678
+.color purple 	#b16286		#8f3f71
+.color aqua 	#689d6a		#427b58
+.color gray 	#7c6f64		#928374
+.color orange 	#d65d0e		#af3a03
+
+"default background colors"
+.color bg		#fbf1c7
+.color fg		#3c3836
+
+"background shade colors"
+.color bg0_h 	#f9f5d7
+.color bg0	 	#fbf1c7
+.color bg1	 	#ebdbb2
+.color bg2 		#d5c4a1
+.color bg3 		#bdae93
+.color bg4	 	#a89984
+
+"foreground shade colors"
+.color bg0_s 	#f2e5bc
+.color fg0	 	#282828
+.color fg1	 	#3c3836
+.color fg2 		#504945
+.color fg3 		#665c54
+.color fg4	 	#7c6f64
+
+
