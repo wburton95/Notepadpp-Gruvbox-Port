@@ -2,7 +2,7 @@
 
 Gruvbox syntax theme ported to Notepad++ text editor.
 
-![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/tree/master/images/gruvbox_dark.png)
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark.PNG)
 
 ---
 ## New changes
