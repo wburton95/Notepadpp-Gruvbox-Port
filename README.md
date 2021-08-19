@@ -1,10 +1,66 @@
-# Notepadpp-Gruvbox-Port
+#Introducing!
 
-Gruvbox syntax theme ported to Notepad++ text editor.
+## Gruvbox themes for the Notepad++ text editor.
 
-![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark.PNG)
+One of the most popular syntax themes available for programming text editors is now available for Notepad++!
+
+###Gruvbox Dark
+---
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark.png)
+
+###Gruvbox Dark "Hard"
+---
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_hard.png)
+
+###Gruvbox Dark "Soft"
+---
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_soft.png)
+
+###Gruvbox Light
+---
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light.png)
+
+###Gruvbox Light "Hard"
+---
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light_hard.png)
+
+###Gruvbox Light "Soft"
+---
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light_soft.png)
 
 ---
+
 ## New changes
 
-* Gruvbox themes are now being rebuilt with a ground up approach, ensuring better looking syntax highlighting for lexers. 
+* [08/18/2021] Reworked themes from the ground up ensuring proper syntax highlighting and color consistency.
+
+---
+
+# Current Lexer support:
+
+| Ada          | Assembly   | Bash                  |
+|:--           |:--:        |:--                    |
+| Batch        | Caml       | C/C++                 |
+|:--           |:--:        |:--                    |
+| C#           | CMake      | Cobol                 |
+|:--           |:--:        |:--                    |
+| CoffeeScript | CSS        | D                     |
+|:--           |:--:        |:--                    |
+| Erlang       | Fortran    | FreeBasic             |
+|:--           |:--:        |:--                    |
+| Haskell      | HTML       | ini                   |
+|:--           |:--:        |:--                    |
+| Java         | JavaScript | JavaScript(embedded)  |
+|:--           |:--:        |:--                    |
+| Json         | Lisp       | Lua                   |
+|:--           |:--:        |:--                    |
+| Matlab       | Makefile   | Nim                   |
+|:--           |:--:        |:--                    |
+| Objective-C  | Pascal     | Perl                  |
+|:--           |:--:        |:--                    |
+| Php          | PowerShell | Python                |
+|:--           |:--:        |:--                    |
+| Ruby         | Rust       | Scheme                |
+|:--           |:--:        |:--                    |
+| XML          | YAML       | N/A                   |
+|:--           |:--:        |:--                    |
