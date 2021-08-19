@@ -1,28 +1,37 @@
 # Gruvbox themes for the Notepad++ text editor.
 
+## Dark Themes
+---
+
 ### Gruvbox Dark
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark.PNG)
-
-### Gruvbox Dark "Hard"
-
-![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_hard.png)
 
 ### Gruvbox Dark "Soft"
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_soft.png)
 
+### Gruvbox Dark "Hard"
+
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_hard.png)
+
+---
+
+## Light Themes
+
+---
+
 ### Gruvbox Light
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light.png)
 
-### Gruvbox Light "Hard"
-
-![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light_hard.png)
-
 ### Gruvbox Light "Soft"
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light_soft.png)
+
+### Gruvbox Light "Hard"
+
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light_hard.png)
 
 ---
 
