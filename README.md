@@ -1,7 +1,5 @@
 # Gruvbox themes for the Notepad++ text editor.
 
----
-
 ### Gruvbox Dark
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark.PNG)
@@ -37,6 +35,7 @@
 ## Current Lexer support:
 
 | Ada          | Assembly   | Bash                  |
+|:--:          |:--:        |:--:                   |
 | Batch        | Caml       | C/C++                 |
 | C#           | CMake      | Cobol                 |
 | CoffeeScript | CSS        | D                     |
