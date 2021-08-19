@@ -1,7 +1,6 @@
 # Gruvbox themes for the Notepad++ text editor.
 
 ## Dark Themes
----
 
 ### Gruvbox Dark
 
@@ -15,11 +14,8 @@
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_hard.png)
 
----
 
 ## Light Themes
-
----
 
 ### Gruvbox Light
 
