@@ -1433,7 +1433,7 @@ Description:
         <WidgetStyle name="Global override" styleID="0" fgColor="665C54" bgColor="F9F5D7" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="665C54" bgColor="F9F5D7" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="BDAE93" bgColor="F9F5D7" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="F9F5D7" bgColor="665C54" fontName="" fontStyle="1" fontSize="10" />
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="665C54" bgColor="EBDBB2" fontName="" fontStyle="1" fontSize="10" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="F9F5D7" bgColor="CC241D" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="EBDBB2" fgColor="EBDBB2" fontSize="" fontStyle="0" />
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="D5C4A1" fgColor="D5C4A1" fontSize="" fontStyle="0" />
@@ -1456,7 +1456,7 @@ Description:
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="A89984" fgColor="A89984" fontSize="" fontStyle="0" />
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="A89984" fgColor="A89984" fontSize="" fontStyle="0" />
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="076678" bgColor="F9F5D7" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="F9F5D7" bgColor="F9F5D7" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="000000" bgColor="000000" fontSize="" fontStyle="0" />
         <WidgetStyle name="Active tab text" styleID="0" fgColor="504945" bgColor="BDAE93" fontSize="" fontStyle="0" />
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="282828" bgColor="665C54" fontSize="" fontStyle="0" />
         <WidgetStyle name="URL hovered" styleID="0" fgColor="076678" bgColor="076678" fontSize="" fontStyle="0" />

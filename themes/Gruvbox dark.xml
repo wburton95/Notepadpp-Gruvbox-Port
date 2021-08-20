@@ -1434,7 +1434,7 @@ Description:
         <WidgetStyle name="Global override" styleID="0" fgColor="EBDBB2" bgColor="282828" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="EBDBB2" bgColor="282828" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="665C54" bgColor="282828" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="282828" bgColor="EBDBB2" fontName="" fontStyle="1" fontSize="10" />
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="EBDBB2" bgColor="3C3836" fontName="" fontStyle="1" fontSize="10" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="282828" bgColor="CC241D" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="3C3836" fgColor="3C3836" fontSize="" fontStyle="0" />
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="504945" fgColor="504945" fontSize="" fontStyle="0" />
