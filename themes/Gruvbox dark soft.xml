@@ -1440,7 +1440,7 @@ Description:
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="665C54" fgColor="665C54" fontSize="" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="FBF1C7" bgColor="3C3836" fontSize="" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="EBDBB2" bgColor="2E2E2E" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Line number margin" styleID="33" fgColor="665C54" bgColor="1D2021" fontName="" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Line number margin" styleID="33" fgColor="7C6F64" bgColor="3C3836" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Bookmark margin" styleID="0" bgColor="3C3836" fgColor="EBDBB2" fontSize="9" fontStyle="0" />
         <WidgetStyle name="Fold" styleID="0" fgColor="928374" bgColor="3C3836" fontSize="" fontStyle="0" />
         <WidgetStyle name="Fold active" styleID="0" fgColor="D65D0E" bgColor="3C3836" fontSize="" fontStyle="0" />
