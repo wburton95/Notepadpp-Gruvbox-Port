@@ -31,12 +31,6 @@
 
 ---
 
-## New changes
-
-* [08/18/2021] Reworked themes from the ground up ensuring proper syntax highlighting and color consistency.
-
----
-
 ## Current Lexer support:
 
 | Ada          | Assembly   | Bash                  |
