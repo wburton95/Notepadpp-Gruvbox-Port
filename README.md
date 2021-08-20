@@ -2,6 +2,10 @@
 
 ## Dark Themes
 
+### Gruvbox Dark "Hard"
+
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_hard.png)
+
 ### Gruvbox Dark
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark.PNG)
@@ -10,12 +14,12 @@
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_soft.png)
 
-### Gruvbox Dark "Hard"
-
-![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_hard.png)
-
 
 ## Light Themes
+
+### Gruvbox Light "Hard"
+
+![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light_hard.png)
 
 ### Gruvbox Light
 
@@ -24,10 +28,6 @@
 ### Gruvbox Light "Soft"
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light_soft.png)
-
-### Gruvbox Light "Hard"
-
-![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light_hard.png)
 
 ---
 
