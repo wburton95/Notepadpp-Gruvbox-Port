@@ -6,7 +6,7 @@
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark_hard.png)
 
-### Gruvbox Dark
+### Gruvbox Dark "Medium"
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_dark.PNG)
 
@@ -21,7 +21,7 @@
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light_hard.png)
 
-### Gruvbox Light
+### Gruvbox Light "Medium"
 
 ![image](https://github.com/wburton95/Notepadpp-Gruvbox-Port/blob/master/images/gruvbox_light.png)
 
